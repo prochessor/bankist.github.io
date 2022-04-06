@@ -5,6 +5,7 @@
 // BANKIST APP
 
 // Data
+alert("Use username as szh,hy,am,ab,du, and pin 1111,2222,3333,4444,5555");
 const account1 = {
     owner: 'Syed zaki haider',
     movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
